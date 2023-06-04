@@ -1,4 +1,5 @@
 # LISTAGEM DE ENDPOINTS
+## Alunos: Milena Schrickte e Gabriel Rossa
 
 ## CRUD
 
