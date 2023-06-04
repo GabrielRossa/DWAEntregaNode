@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "nome": "Milena",
+    "sobrenome": "Schrickte",
+    "dataNascimento": "13/01/2003",
+    "telefone": "41988661419",
+    "endereco": "Rua tal",
+    "cidade": "Curitiba",
+    "estado": "Paraná",
+    "status": true
+  },
+  {
+    "id": 2,
+    "nome": "Gabriel",
+    "sobrenome": "Rossa",
+    "data de nascimento": "11/03/2003",
+    "telefone": "49998280747",
+    "endereco": "Av Visconde de Guarapuava",
+    "cidade": "Curitiba",
+    "estado": "Paraná",
+    "status": false
+  }
+]
